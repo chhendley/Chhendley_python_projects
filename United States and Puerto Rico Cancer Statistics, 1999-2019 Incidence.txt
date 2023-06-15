@@ -1,0 +1,121 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"Region"	"Region Code"	"Year"	"Year Code"	Count
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"1999"	"1999"	285486
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2000"	"2000"	291637
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2001"	"2001"	300174
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2002"	"2002"	301577
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2003"	"2003"	297996
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2004"	"2004"	300695
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2005"	"2005"	304192
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2006"	"2006"	313805
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2007"	"2007"	317998
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2008"	"2008"	320839
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2009"	"2009"	322946
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2010"	"2010"	318592
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2011"	"2011"	327316
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2012"	"2012"	320908
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2013"	"2013"	327335
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2014"	"2014"	327566
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2015"	"2015"	333648
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2016"	"2016"	337410
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2017"	"2017"	340972
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2018"	"2018"	337564
+	"All Invasive Cancer Sites Combined"	"0"	"Northeast"	"CENS-R1"	"2019"	"2019"	341221
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"1999"	"1999"	311150
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2000"	"2000"	312594
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2001"	"2001"	325599
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2002"	"2002"	329402
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2003"	"2003"	327570
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2004"	"2004"	330412
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2005"	"2005"	336262
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2006"	"2006"	343308
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2007"	"2007"	351810
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2008"	"2008"	354038
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2009"	"2009"	357032
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2010"	"2010"	355426
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2011"	"2011"	363816
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2012"	"2012"	358746
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2013"	"2013"	361649
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2014"	"2014"	368852
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2015"	"2015"	378909
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2016"	"2016"	382748
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2017"	"2017"	388683
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2018"	"2018"	389141
+	"All Invasive Cancer Sites Combined"	"0"	"Midwest"	"CENS-R2"	"2019"	"2019"	385183
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"1999"	"1999"	447496
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2000"	"2000"	462602
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2001"	"2001"	475030
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2002"	"2002"	483753
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2003"	"2003"	503052
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2004"	"2004"	511978
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2005"	"2005"	526409
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2006"	"2006"	539758
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2007"	"2007"	562932
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2008"	"2008"	570950
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2009"	"2009"	578207
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2010"	"2010"	578619
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2011"	"2011"	593413
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2012"	"2012"	595714
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2013"	"2013"	612682
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2014"	"2014"	624827
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2015"	"2015"	644209
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2016"	"2016"	654618
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2017"	"2017"	664165
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2018"	"2018"	677385
+	"All Invasive Cancer Sites Combined"	"0"	"South"	"CENS-R3"	"2019"	"2019"	676945
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"1999"	"1999"	260598
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2000"	"2000"	265502
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2001"	"2001"	276310
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2002"	"2002"	279781
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2003"	"2003"	279463
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2004"	"2004"	287720
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2005"	"2005"	292810
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2006"	"2006"	298784
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2007"	"2007"	308828
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2008"	"2008"	316320
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2009"	"2009"	322339
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2010"	"2010"	323614
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2011"	"2011"	327537
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2012"	"2012"	326937
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2013"	"2013"	331890
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2014"	"2014"	338514
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2015"	"2015"	345441
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2016"	"2016"	351117
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2017"	"2017"	358696
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2018"	"2018"	345308
+	"All Invasive Cancer Sites Combined"	"0"	"West"	"CENS-R4"	"2019"	"2019"	349386
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2019 Incidence"
+"Query Parameters:"
+"Cancer Sites: All Invasive Cancer Sites Combined"
+"Group By: Cancer Sites; Region; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2019.html for more information."
+"---"
+"Query Date: Mar 17, 2023 8:50:25 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Incidence: 1999 - 2019, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2021 submission; 2022"
+"release. Accessed at http://wonder.cdc.gov/cancer-v2019.html on Mar 17, 2023 8:50:25 PM"
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"3. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated March 1, 2018, which define"
+"standard groupings of primary cancer sites."
+"4. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
