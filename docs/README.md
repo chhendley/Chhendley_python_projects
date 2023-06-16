@@ -6,7 +6,7 @@
 ## Lane Detection
   This project uses computer vision techniques to identify the lines painted on the road to designate a lane while a car is in motion.
   It has a link to a short video which is used for demonstration purposes
-  [Lane Detection](/chhendley_python_projects/lane_detection.ipynb)
+  [Lane Detection](https://github.com/chhendley/chhendley_python_projects/blob/main/lane_detection.ipynb)
 
 ## Medical journal abstract classfier
   This project uses natural language processing techniques to classify journal abstract into 5 different categories with approximately   60% accuracy. It includes a link to the original Kaggle dataset used in this project. 
