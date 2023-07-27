@@ -23,6 +23,8 @@
   This project uses ARIMA and Facebook Prophet to predict the number of new cancer diagnoses in the US over 4 years. Training 
   data was pulled from the CDC.  
   [Jump to code](https://github.com/chhendley/chhendley_python_projects/blob/main/cancer_prediction.ipynb)
+### Heart Attack Predictor 
+  This project compares the accuracy of an ensemble of machine learning methods to a deep artificial neural network.  The data is from 
+  a Kaggle dataset. 
+  [Jump to Code](https://github.com/chhendley/chhendley_python_projects/blob/main/cancer_prediction.ipynb)
 ***
-#### About Chris:
-I am a data enthusiast who enjoys solving problems with code.  My main programming language is Python as you can tell, but I have used SQL as well.  
